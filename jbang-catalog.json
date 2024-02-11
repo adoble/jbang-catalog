@@ -2,7 +2,7 @@
   "catalogs": {},
   "aliases": {
     "adr": {
-      "script-ref": "https://github.com/adoble/adr-j/releases/download/v3.2.2/adr-j.jar",
+      "script-ref": "https://github.com/adoble/adr-j/releases/download/v3.2.3/adr-j.jar",
       "enable-preview": false,
       "java-agents": []
     }
